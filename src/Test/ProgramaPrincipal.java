@@ -183,15 +183,11 @@ public class ProgramaPrincipal {
 						JOptionPane.showMessageDialog(null, "Solo se permiten caracteres numericos","Input Error",JOptionPane.ERROR_MESSAGE);
 					}
 				}
-				
-				
-				
+					
 			} else {
 				me = false;
 			}
 		}
-		
-		
-		
+			
 	}
 }
